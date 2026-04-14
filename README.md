@@ -1,24 +1,20 @@
 <div align="center">
-  <h1>Aplicación Web interactiva: Piedra, Papel o Tijera ✊✋✂️</h1>
-</div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80" width="600"/>
-</div>
+<h1>Aplicación Web interactiva: Piedra, Papel o Tijera ✊✋✂️</h1>
 
-<p align="center">Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
+<img src="https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80" width="600"/>
 
-🌐 Demo online
-Puedes ver el proyecto funcionando aquí:
+<p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
 
-<div align="center">
+<br>
 
-[<a href="https://TUUSUARIO.github.io/TUREPO/">](https://jroldanpomareta.github.io/piedra-papel-tijera/)
+<a href="https://jroldanpomareta.github.io/piedra-papel-tijera/">
   <img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
 </a>
 
 </div>
 
+---
 
 ## 📖 Descripción
 
