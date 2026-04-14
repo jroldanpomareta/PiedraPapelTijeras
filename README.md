@@ -6,7 +6,15 @@
 
 <p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
 
-<br>
+</div>
+
+---
+
+## 🌐 Demo online
+
+Puedes probar la aplicación aquí:
+
+<div align="center">
 
 <a href="https://jroldanpomareta.github.io/piedra-papel-tijera/">
   <img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
