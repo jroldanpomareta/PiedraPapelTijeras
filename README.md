@@ -2,7 +2,9 @@
   <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
 </div>
 
-![1](https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80" width="400"/>
+</div>
 
 
 ---
