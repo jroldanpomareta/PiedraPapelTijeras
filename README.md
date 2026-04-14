@@ -2,7 +2,7 @@
 
 <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
 
-<img src="https://github.com/user-attachments/assets/XXXX" width="400"/>
+<img src="img/defecto.png" width="300"/>
 
 </div>
 
