@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✊✋✂️ Aplicación Web interactiva: Piedra, Papel o Tijera</h1>
+  <h1>Aplicación Web interactiva: Piedra, Papel o Tijera ✊✋✂️</h1>
 </div>
 
 <div align="center">
