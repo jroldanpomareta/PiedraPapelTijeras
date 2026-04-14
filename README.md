@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<a href="https://TUUSUARIO.github.io/TUREPO/">
+[<a href="https://TUUSUARIO.github.io/TUREPO/">](https://jroldanpomareta.github.io/piedra-papel-tijera/)
   <img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
 </a>
 
