@@ -1,10 +1,9 @@
 <div align="center">
-
-<h1>✊✋✂️ Piedra, Papel o Tijera</h1>
-
-<img src="img/defecto.png" width="300"/>
-
+  <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
 </div>
+
+![1](https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80)
+
 
 ---
 
