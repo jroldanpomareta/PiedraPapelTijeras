@@ -1,10 +1,8 @@
-![1](https://github.com/user-attachments/assets/7ca78bad-5577-4f51-8df0-3ebeb04bd4d1)
 <div align="center">
 
 <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
-<p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
 
-<img src="img/defecto.png" width="150"/>
+<img src="https://github.com/user-attachments/assets/XXXX" width="400"/>
 
 </div>
 
