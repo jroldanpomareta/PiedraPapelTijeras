@@ -14,11 +14,15 @@
 
 Puedes probar la aplicación aquí:
 
+## 🌐 Demo online
+
 <div align="center">
 
-https://jroldanpomareta.github.io/PiedraPapelTijeras/
-<img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
+<a href="https://jroldanpomareta.github.io/PiedraPapelTijeras/">
+  <img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
 </a>
+
+</div>
 
 </div>
 
