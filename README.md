@@ -58,3 +58,39 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 ---
 
 ## 📂 Estructura del proyecto
+
+---
+
+## ⚙️ Funcionamiento
+
+El juego funciona mediante eventos en JavaScript:
+
+- El usuario introduce sus datos  
+- Selecciona una jugada  
+- La máquina genera una opción aleatoria  
+- Se calcula el resultado y se guarda en el historial  
+
+👉 Ejemplo del código: :contentReference[oaicite:0]{index=0}  
+
+---
+
+## ▶️ Cómo ejecutar
+
+1. Descargar el repositorio  
+2. Abrir el archivo:
+3. Jugar en el navegador  
+
+---
+
+## 📚 Documentación
+
+Puedes ver el desarrollo completo en el PDF:  
+👉 :contentReference[oaicite:1]{index=1}  
+
+---
+
+## 👨‍💻 Autor
+
+**Javier Roldán Pomareta**
+
+3. 
