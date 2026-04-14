@@ -16,7 +16,7 @@ Puedes probar la aplicación aquí:
 
 <div align="center">
 
-<a href="https://jroldanpomareta.github.io/piedra-papel-tijera/">
+<a href="https://jroldanpomareta.github.io/PiedraPapelTijeras/">
   <img src="https://img.shields.io/badge/🎮 Jugar Ahora-blue?style=for-the-badge"/>
 </a>
 
