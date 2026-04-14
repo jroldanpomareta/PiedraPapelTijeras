@@ -6,8 +6,8 @@
   <img src="https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80" width="600"/>
 </div>
 
-<p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
----
+<p align="center">Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
+
 
 ## 📖 Descripción
 
@@ -15,7 +15,7 @@ Aplicación web interactiva donde el usuario puede jugar al clásico juego de **
 
 Permite introducir un nombre de usuario, seleccionar número de partidas y visualizar el resultado de cada ronda.
 
----
+
 
 ## 🚀 Características principales
 
@@ -25,7 +25,7 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 - Historial de resultados en tiempo real  
 - Botón de reinicio de partida  
 
----
+
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -33,7 +33,7 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 - CSS3  
 - JavaScript  
 
----
+
 
 ## 📸 Capturas
 
@@ -54,7 +54,7 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 
 </div>
 
----
+
 
 ## 📂 Estructura del proyecto
 
@@ -65,7 +65,7 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 📄 PAC_UF3_RoldanPomaretaJavier.pdf
 
 
----
+
 
 ## ⚙️ Funcionamiento
 
@@ -78,7 +78,7 @@ El juego funciona mediante eventos en JavaScript:
 
 
 
----
+
 
 ## ▶️ Cómo ejecutar
 
@@ -96,7 +96,7 @@ piedraPapelTijera.html
 Puedes ver el desarrollo completo en el PDF adjunto
 
 
----
+
 
 ## 👨‍💻 Autor
 
