@@ -1,11 +1,7 @@
 <div align="center">
 
 <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
-![1](https://github.com/user-attachments/assets/f30a3bd1-0064-4562-9b2f-541b9bdbb5ed)
-
-<p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
-
-<img src="img/defecto.png" width="150"/>
+![1](https://github.com/user-attachments/assets/c9c94661-70b3-46b2-916a-bb0d97de163c)
 
 </div>
 
