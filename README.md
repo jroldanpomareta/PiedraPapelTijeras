@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
-![1](https://github.com/user-attachments/assets/c9c94661-70b3-46b2-916a-bb0d97de163c)
+
 
 </div>
-
+![1](https://github.com/user-attachments/assets/c9c94661-70b3-46b2-916a-bb0d97de163c)
 ---
 
 
