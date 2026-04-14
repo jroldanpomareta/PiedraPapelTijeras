@@ -94,8 +94,8 @@ piedraPapelTijera.html
 
 ## 📚 Documentación
 
-Puedes ver el desarrollo completo en el PDF:  
-👉 :contentReference[oaicite:1]{index=1}  
+Puedes ver el desarrollo completo en el PDF adjunto
+
 
 ---
 
