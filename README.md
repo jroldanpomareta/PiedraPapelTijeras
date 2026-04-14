@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Aplicación Web interactiva: Piedra, Papel o Tijera ✊✋✂️</h1>
+<h1>Aplicación Web: Piedra, Papel o Tijera ✊✋✂️</h1>
 
 <img src="https://github.com/user-attachments/assets/4777d5a8-89d6-4562-86f9-0efea53d6d80" width="600"/>
 
