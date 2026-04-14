@@ -77,7 +77,7 @@ El juego funciona mediante eventos en JavaScript:
 - La máquina genera una opción aleatoria  
 - Se calcula el resultado y se guarda en el historial  
 
-👉 Ejemplo del código: :contentReference[oaicite:0]{index=0}  
+
 
 ---
 
