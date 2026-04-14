@@ -1,6 +1,8 @@
 <div align="center">
 
 <h1>✊✋✂️ Piedra, Papel o Tijera</h1>
+![1](https://github.com/user-attachments/assets/f30a3bd1-0064-4562-9b2f-541b9bdbb5ed)
+
 <p>Proyecto Desarrollo Web en Entorno Cliente - UF3</p>
 
 <img src="img/defecto.png" width="150"/>
@@ -56,4 +58,4 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 
 ---
 
-## 📂 Estructura del proyecto
+
