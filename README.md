@@ -59,6 +59,13 @@ Permite introducir un nombre de usuario, seleccionar número de partidas y visua
 
 ## 📂 Estructura del proyecto
 
+📁 img/
+📄 piedraPapelTijera.html
+📄 piedraPapelTijera.css
+📄 piedraPapelTijera.js
+📄 PAC_UF3_RoldanPomaretaJavier.pdf
+
+
 ---
 
 ## ⚙️ Funcionamiento
@@ -78,6 +85,9 @@ El juego funciona mediante eventos en JavaScript:
 
 1. Descargar el repositorio  
 2. Abrir el archivo:
+
+piedraPapelTijera.html
+
 3. Jugar en el navegador  
 
 ---
@@ -92,5 +102,3 @@ Puedes ver el desarrollo completo en el PDF:
 ## 👨‍💻 Autor
 
 **Javier Roldán Pomareta**
-
-3. 
